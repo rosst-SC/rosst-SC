@@ -1,6 +1,6 @@
 Location: Sydney, Australia
 
-My Favorite Fluorophore/Metal-Isotope: BV421 & 171 Yb
+My Favorite Fluorophore/Metal-Isotope: BV421 & 165 Ho
 
 Previous Coding Experience: Following guides but not really understanding whats going on
 
